@@ -2,7 +2,7 @@
 
 Personal portfolio website for Deeksha S, built for the Future Interns Full Stack Web Development internship, Task 1. Push this repository to GitHub as **`FUTURE_FS_01`**.
 
-**Live site:** 
+## Live site : https://deeksha-portfolio-toth.onrender.com/
 
 ## Features
 - Sections for About, Skills, Projects, Experience and education, Certifications and Contact
